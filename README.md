@@ -1,7 +1,7 @@
 # Writing Strategies for Science Communication: Data and Computational Analysis
 
 ## Purpose
-This repo holds to code and data for publication:
+This repo holds code and data for the publication:
 
   Tal August, Lauren Kim, Katharina Reinecke, and Noah Smith ''Writing Strategies for Science Communication: Data and Computational Analysis'', Conference on Empirical Methods in Natural Language Processing (EMNLP) 2020.
 
