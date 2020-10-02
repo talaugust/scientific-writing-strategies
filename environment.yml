@@ -1,0 +1,5 @@
+name: sci_articles
+channels:
+  - defaults
+prefix: /homes/gws/taugust/miniconda3/envs/sci_articles
+
